@@ -1,0 +1,5 @@
+client\Client.class
+servermessagehandler\ServerMessageHandler.class
+clienttest\clienttest.class
+userinterface\StandardIO.class
+usercommandhandler\UserCommandHandler.class
